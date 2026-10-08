@@ -1,0 +1,11 @@
+# MATLAB 数据/输出（可再生，不入库）
+*.mat
+*.png
+*.jpg
+*.jpeg
+*.fig
+
+# MATLAB 自动保存/备份
+*.asv
+*.m~
+*.bak
